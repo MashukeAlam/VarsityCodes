@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 
+//Hey
 void del(char str[100], int n)
 {
     int len, i;
