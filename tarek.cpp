@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//Commit
 int valid(char *str,int i,char ch,char ch2)
 {
 	int j;
