@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+//Nice thing to do on leisure
 int search_element(int arr[], int n, int key) {
     for(int i = 0; i < n; i++) {
         if(arr[i] == key)
